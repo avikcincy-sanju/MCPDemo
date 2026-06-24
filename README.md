@@ -1,3 +1,14 @@
-# MCP
+# Agentic Commerce
 
-[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-zrxepgdt)
+The Merchant Endpoint for Agent-Driven Commerce
+
+An interactive prototype demonstrating:
+
+• ISV / ISO / Direct Platform channels
+• GTM models
+• Agentic checkout
+• MCP architecture
+• Stablecoin settlement
+• Traditional payment rails
+• Merchant onboarding
+• Payment authentication
