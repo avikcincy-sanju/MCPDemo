@@ -303,7 +303,7 @@ export default function App() {
       <div style={{ ...s.container, paddingTop: 60 }}>
         <div style={{ textAlign: "center", marginBottom: 40 }}>
           <h1 style={{ fontSize: 42, fontWeight: 800, letterSpacing: "-.02em", lineHeight: 1.15, marginBottom: 12, background: "linear-gradient(135deg, #e2e8f0, #818cf8)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent" }}>
-            The Merchant Endpoint<br />for Agent-Driven Commerce
+            The Merchant Endpoint<br />for Agent-Driven Commerce Flow
           </h1>
           <p style={{ ...s.p, fontSize: 15, maxWidth: 560, margin: "0 auto 32px" }}>
             The purchase funnel is being replaced. AI agents are the new storefront.
